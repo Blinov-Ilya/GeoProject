@@ -1,0 +1,16 @@
+object_id,name,address,operator,median_rsrp_dbm,measurement_count,nearest_distance_m,status,radius_m
+1,Technisches Museum,"Mariahilfer Straße 212, 1140 Wien, Austria",A,-88.8,1392,9.701874242950955,достаточно данных,250
+2,Raimund Theater,"Wallgasse 18-20, 1060 Wien, Austria",A,-85.2,2175,9.697563791555135,достаточно данных,250
+3,Secession,"Friedrichstraße 12, 1010 Wien, Austria",A,-88.85,616,38.58595438104409,достаточно данных,250
+4,Theater an der Wien,"Linke Wienzeile 6, 1060 Wien, Austria",A,-95.69999999999999,496,61.29913687923598,достаточно данных,250
+5,Upper Belvedere,"Prinz-Eugen-Straße 27, 1030 Wien, Austria",A,-91.9,399,10.560571506837915,достаточно данных,250
+1,Technisches Museum,"Mariahilfer Straße 212, 1140 Wien, Austria",B,-88.4,700,9.701874242950955,достаточно данных,250
+2,Raimund Theater,"Wallgasse 18-20, 1060 Wien, Austria",B,-84.3,370,101.50866520179136,достаточно данных,250
+3,Secession,"Friedrichstraße 12, 1010 Wien, Austria",B,-73.9,327,67.90964561600887,достаточно данных,250
+4,Theater an der Wien,"Linke Wienzeile 6, 1060 Wien, Austria",B,-74.1,425,61.29913687923598,достаточно данных,250
+5,Upper Belvedere,"Prinz-Eugen-Straße 27, 1030 Wien, Austria",B,-89.9,403,10.560571506837915,достаточно данных,250
+1,Technisches Museum,"Mariahilfer Straße 212, 1140 Wien, Austria",C,-83.6,669,9.701874242950955,достаточно данных,250
+2,Raimund Theater,"Wallgasse 18-20, 1060 Wien, Austria",C,-87.3,427,101.50866520179136,достаточно данных,250
+3,Secession,"Friedrichstraße 12, 1010 Wien, Austria",C,-77.45,306,67.90964561600887,достаточно данных,250
+4,Theater an der Wien,"Linke Wienzeile 6, 1060 Wien, Austria",C,-78.69999999999999,404,61.29913687923598,достаточно данных,250
+5,Upper Belvedere,"Prinz-Eugen-Straße 27, 1030 Wien, Austria",C,-88.5,391,10.560571506837915,достаточно данных,250

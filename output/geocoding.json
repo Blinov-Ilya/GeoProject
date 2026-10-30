@@ -1,0 +1,552 @@
+[
+  {
+    "object_id": 1,
+    "name": "Technisches Museum",
+    "address": "Mariahilfer Straße 212, 1140 Wien, Austria",
+    "source_url": "https://www.technischesmuseum.at/besuchen/barrierefreier_besuch",
+    "longitude": 16.317825,
+    "latitude": 48.190356,
+    "matched_address": "Austria, Vienna, Mariahilfer Straße, 212",
+    "precision": "exact",
+    "geocoded_at": "2026-10-30T10:38:43.418294+00:00",
+    "response": {
+      "response": {
+        "GeoObjectCollection": {
+          "metaDataProperty": {
+            "GeocoderResponseMetaData": {
+              "request": "Mariahilfer Straße 212, 1140 Wien, Austria",
+              "results": "1",
+              "found": "1"
+            }
+          },
+          "featureMember": [
+            {
+              "GeoObject": {
+                "metaDataProperty": {
+                  "GeocoderMetaData": {
+                    "precision": "exact",
+                    "text": "Austria, Vienna, Mariahilfer Straße, 212",
+                    "kind": "house",
+                    "Address": {
+                      "country_code": "AT",
+                      "formatted": "Austria, Vienna, Mariahilfer Straße, 212",
+                      "Components": [
+                        {
+                          "kind": "country",
+                          "name": "Austria"
+                        },
+                        {
+                          "kind": "province",
+                          "name": "Vienna"
+                        },
+                        {
+                          "kind": "area",
+                          "name": "Wien"
+                        },
+                        {
+                          "kind": "district",
+                          "name": "Wien"
+                        },
+                        {
+                          "kind": "locality",
+                          "name": "Vienna"
+                        },
+                        {
+                          "kind": "street",
+                          "name": "Mariahilfer Straße"
+                        },
+                        {
+                          "kind": "house",
+                          "name": "212"
+                        }
+                      ]
+                    },
+                    "AddressDetails": {
+                      "Country": {
+                        "AddressLine": "Austria, Vienna, Mariahilfer Straße, 212",
+                        "CountryNameCode": "AT",
+                        "CountryName": "Austria",
+                        "AdministrativeArea": {
+                          "AdministrativeAreaName": "Vienna",
+                          "SubAdministrativeArea": {
+                            "SubAdministrativeAreaName": "Wien",
+                            "Locality": {
+                              "DependentLocality": {
+                                "DependentLocalityName": "Wien",
+                                "DependentLocality": {
+                                  "DependentLocalityName": "Vienna",
+                                  "Thoroughfare": {
+                                    "ThoroughfareName": "Mariahilfer Straße",
+                                    "Premise": {
+                                      "PremiseNumber": "212"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "name": "Mariahilfer Straße, 212",
+                "description": "Vienna, Austria",
+                "boundedBy": {
+                  "Envelope": {
+                    "lowerCorner": "16.31372 48.18761",
+                    "upperCorner": "16.321931 48.1931"
+                  }
+                },
+                "uri": "ymapsbm1://geo?data=CgoyODY4Mzk1MjAwEivDlnN0ZXJyZWljaCwgV2llbiwgTWFyaWFoaWxmZXIgU3RyYcOfZSwgMjEyIgoN5oqCQRXswkBC",
+                "Point": {
+                  "pos": "16.317825 48.190356"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "object_id": 2,
+    "name": "Raimund Theater",
+    "address": "Wallgasse 18-20, 1060 Wien, Austria",
+    "source_url": "https://www.musicalvienna.at/de-de/ueber-uns/raimund-theater",
+    "longitude": 16.339448,
+    "latitude": 48.192518,
+    "matched_address": "Austria, Vienna, Wallgasse, 18",
+    "precision": "number",
+    "geocoded_at": "2026-10-30T10:38:43.779675+00:00",
+    "response": {
+      "response": {
+        "GeoObjectCollection": {
+          "metaDataProperty": {
+            "GeocoderResponseMetaData": {
+              "request": "Wallgasse 18-20, 1060 Wien, Austria",
+              "results": "1",
+              "found": "1"
+            }
+          },
+          "featureMember": [
+            {
+              "GeoObject": {
+                "metaDataProperty": {
+                  "GeocoderMetaData": {
+                    "precision": "number",
+                    "text": "Austria, Vienna, Wallgasse, 18",
+                    "kind": "house",
+                    "Address": {
+                      "country_code": "AT",
+                      "formatted": "Austria, Vienna, Wallgasse, 18",
+                      "Components": [
+                        {
+                          "kind": "country",
+                          "name": "Austria"
+                        },
+                        {
+                          "kind": "province",
+                          "name": "Vienna"
+                        },
+                        {
+                          "kind": "area",
+                          "name": "Wien"
+                        },
+                        {
+                          "kind": "district",
+                          "name": "Wien"
+                        },
+                        {
+                          "kind": "locality",
+                          "name": "Vienna"
+                        },
+                        {
+                          "kind": "street",
+                          "name": "Wallgasse"
+                        },
+                        {
+                          "kind": "house",
+                          "name": "18"
+                        }
+                      ]
+                    },
+                    "AddressDetails": {
+                      "Country": {
+                        "AddressLine": "Austria, Vienna, Wallgasse, 18",
+                        "CountryNameCode": "AT",
+                        "CountryName": "Austria",
+                        "AdministrativeArea": {
+                          "AdministrativeAreaName": "Vienna",
+                          "SubAdministrativeArea": {
+                            "SubAdministrativeAreaName": "Wien",
+                            "Locality": {
+                              "DependentLocality": {
+                                "DependentLocalityName": "Wien",
+                                "DependentLocality": {
+                                  "DependentLocalityName": "Vienna",
+                                  "Thoroughfare": {
+                                    "ThoroughfareName": "Wallgasse",
+                                    "Premise": {
+                                      "PremiseNumber": "18"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "name": "Wallgasse, 18",
+                "description": "Vienna, Austria",
+                "boundedBy": {
+                  "Envelope": {
+                    "lowerCorner": "16.335342 48.189773",
+                    "upperCorner": "16.343553 48.195263"
+                  }
+                },
+                "uri": "ymapsbm1://geo?data=CgoyODUzMzAwNjIwEiDDlnN0ZXJyZWljaCwgV2llbiwgV2FsbGdhc3NlLCAxOCIKDTG3gkEVI8VAQg,,",
+                "Point": {
+                  "pos": "16.339448 48.192518"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "object_id": 3,
+    "name": "Secession",
+    "address": "Friedrichstraße 12, 1010 Wien, Austria",
+    "source_url": "https://secession.at/kontakt",
+    "longitude": 16.366101,
+    "latitude": 48.200434,
+    "matched_address": "Austria, Vienna, Friedrichstraße, 12",
+    "precision": "exact",
+    "geocoded_at": "2026-10-30T10:38:44.189093+00:00",
+    "response": {
+      "response": {
+        "GeoObjectCollection": {
+          "metaDataProperty": {
+            "GeocoderResponseMetaData": {
+              "request": "Friedrichstraße 12, 1010 Wien, Austria",
+              "results": "1",
+              "found": "1"
+            }
+          },
+          "featureMember": [
+            {
+              "GeoObject": {
+                "metaDataProperty": {
+                  "GeocoderMetaData": {
+                    "precision": "exact",
+                    "text": "Austria, Vienna, Friedrichstraße, 12",
+                    "kind": "house",
+                    "Address": {
+                      "country_code": "AT",
+                      "formatted": "Austria, Vienna, Friedrichstraße, 12",
+                      "Components": [
+                        {
+                          "kind": "country",
+                          "name": "Austria"
+                        },
+                        {
+                          "kind": "province",
+                          "name": "Vienna"
+                        },
+                        {
+                          "kind": "area",
+                          "name": "Wien"
+                        },
+                        {
+                          "kind": "district",
+                          "name": "Wien"
+                        },
+                        {
+                          "kind": "locality",
+                          "name": "Vienna"
+                        },
+                        {
+                          "kind": "street",
+                          "name": "Friedrichstraße"
+                        },
+                        {
+                          "kind": "house",
+                          "name": "12"
+                        }
+                      ]
+                    },
+                    "AddressDetails": {
+                      "Country": {
+                        "AddressLine": "Austria, Vienna, Friedrichstraße, 12",
+                        "CountryNameCode": "AT",
+                        "CountryName": "Austria",
+                        "AdministrativeArea": {
+                          "AdministrativeAreaName": "Vienna",
+                          "SubAdministrativeArea": {
+                            "SubAdministrativeAreaName": "Wien",
+                            "Locality": {
+                              "DependentLocality": {
+                                "DependentLocalityName": "Wien",
+                                "DependentLocality": {
+                                  "DependentLocalityName": "Vienna",
+                                  "Thoroughfare": {
+                                    "ThoroughfareName": "Friedrichstraße",
+                                    "Premise": {
+                                      "PremiseNumber": "12"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "name": "Friedrichstraße, 12",
+                "description": "Vienna, Austria",
+                "boundedBy": {
+                  "Envelope": {
+                    "lowerCorner": "16.361995 48.197689",
+                    "upperCorner": "16.370206 48.203178"
+                  }
+                },
+                "uri": "ymapsbm1://geo?data=CgoyODQ5NjU2Mzk0EifDlnN0ZXJyZWljaCwgV2llbiwgRnJpZWRyaWNoc3RyYcOfZSwgMTIiCg3F7YJBFT_NQEI,",
+                "Point": {
+                  "pos": "16.366101 48.200434"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "object_id": 4,
+    "name": "Theater an der Wien",
+    "address": "Linke Wienzeile 6, 1060 Wien, Austria",
+    "source_url": "https://www.theater-wien.at/de/service/ihr-besuch/1",
+    "longitude": 16.364376,
+    "latitude": 48.199437,
+    "matched_address": "Austria, Vienna, Linke Wienzeile, 6",
+    "precision": "exact",
+    "geocoded_at": "2026-10-30T10:48:18.379381+00:00",
+    "response": {
+      "response": {
+        "GeoObjectCollection": {
+          "metaDataProperty": {
+            "GeocoderResponseMetaData": {
+              "request": "Linke Wienzeile 6, 1060 Wien, Austria",
+              "results": "3",
+              "found": "1"
+            }
+          },
+          "featureMember": [
+            {
+              "GeoObject": {
+                "metaDataProperty": {
+                  "GeocoderMetaData": {
+                    "precision": "exact",
+                    "text": "Austria, Vienna, Linke Wienzeile, 6",
+                    "kind": "house",
+                    "Address": {
+                      "country_code": "AT",
+                      "formatted": "Austria, Vienna, Linke Wienzeile, 6",
+                      "Components": [
+                        {
+                          "kind": "country",
+                          "name": "Austria"
+                        },
+                        {
+                          "kind": "province",
+                          "name": "Vienna"
+                        },
+                        {
+                          "kind": "area",
+                          "name": "Wien"
+                        },
+                        {
+                          "kind": "district",
+                          "name": "Wien"
+                        },
+                        {
+                          "kind": "locality",
+                          "name": "Vienna"
+                        },
+                        {
+                          "kind": "street",
+                          "name": "Linke Wienzeile"
+                        },
+                        {
+                          "kind": "house",
+                          "name": "6"
+                        }
+                      ]
+                    },
+                    "AddressDetails": {
+                      "Country": {
+                        "AddressLine": "Austria, Vienna, Linke Wienzeile, 6",
+                        "CountryNameCode": "AT",
+                        "CountryName": "Austria",
+                        "AdministrativeArea": {
+                          "AdministrativeAreaName": "Vienna",
+                          "SubAdministrativeArea": {
+                            "SubAdministrativeAreaName": "Wien",
+                            "Locality": {
+                              "DependentLocality": {
+                                "DependentLocalityName": "Wien",
+                                "DependentLocality": {
+                                  "DependentLocalityName": "Vienna",
+                                  "Thoroughfare": {
+                                    "ThoroughfareName": "Linke Wienzeile",
+                                    "Premise": {
+                                      "PremiseNumber": "6"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "name": "Linke Wienzeile, 6",
+                "description": "Vienna, Austria",
+                "boundedBy": {
+                  "Envelope": {
+                    "lowerCorner": "16.360271 48.196692",
+                    "upperCorner": "16.368481 48.202181"
+                  }
+                },
+                "uri": "ymapsbm1://geo?data=CgoyODQwMTQxNjc4EiXDlnN0ZXJyZWljaCwgV2llbiwgTGlua2UgV2llbnplaWxlLCA2IgoNP-qCQRU6zEBC",
+                "Point": {
+                  "pos": "16.364376 48.199437"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "object_id": 5,
+    "name": "Upper Belvedere",
+    "address": "Prinz-Eugen-Straße 27, 1030 Wien, Austria",
+    "source_url": "https://www.belvedere.at/en/visit/upper-belvedere",
+    "longitude": 16.37936,
+    "latitude": 48.191791,
+    "matched_address": "Austria, Vienna, Prinz-Eugen-Straße, 27",
+    "precision": "exact",
+    "geocoded_at": "2026-10-30T10:38:44.846670+00:00",
+    "response": {
+      "response": {
+        "GeoObjectCollection": {
+          "metaDataProperty": {
+            "GeocoderResponseMetaData": {
+              "request": "Prinz-Eugen-Straße 27, 1030 Wien, Austria",
+              "results": "1",
+              "found": "1"
+            }
+          },
+          "featureMember": [
+            {
+              "GeoObject": {
+                "metaDataProperty": {
+                  "GeocoderMetaData": {
+                    "precision": "exact",
+                    "text": "Austria, Vienna, Prinz-Eugen-Straße, 27",
+                    "kind": "house",
+                    "Address": {
+                      "country_code": "AT",
+                      "formatted": "Austria, Vienna, Prinz-Eugen-Straße, 27",
+                      "Components": [
+                        {
+                          "kind": "country",
+                          "name": "Austria"
+                        },
+                        {
+                          "kind": "province",
+                          "name": "Vienna"
+                        },
+                        {
+                          "kind": "area",
+                          "name": "Wien"
+                        },
+                        {
+                          "kind": "district",
+                          "name": "Wien"
+                        },
+                        {
+                          "kind": "locality",
+                          "name": "Vienna"
+                        },
+                        {
+                          "kind": "street",
+                          "name": "Prinz-Eugen-Straße"
+                        },
+                        {
+                          "kind": "house",
+                          "name": "27"
+                        }
+                      ]
+                    },
+                    "AddressDetails": {
+                      "Country": {
+                        "AddressLine": "Austria, Vienna, Prinz-Eugen-Straße, 27",
+                        "CountryNameCode": "AT",
+                        "CountryName": "Austria",
+                        "AdministrativeArea": {
+                          "AdministrativeAreaName": "Vienna",
+                          "SubAdministrativeArea": {
+                            "SubAdministrativeAreaName": "Wien",
+                            "Locality": {
+                              "DependentLocality": {
+                                "DependentLocalityName": "Wien",
+                                "DependentLocality": {
+                                  "DependentLocalityName": "Vienna",
+                                  "Thoroughfare": {
+                                    "ThoroughfareName": "Prinz-Eugen-Straße",
+                                    "Premise": {
+                                      "PremiseNumber": "27"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "name": "Prinz-Eugen-Straße, 27",
+                "description": "Vienna, Austria",
+                "boundedBy": {
+                  "Envelope": {
+                    "lowerCorner": "16.375255 48.189046",
+                    "upperCorner": "16.383465 48.194536"
+                  }
+                },
+                "uri": "ymapsbm1://geo?data=CgoyODUxNTUxODUzEirDlnN0ZXJyZWljaCwgV2llbiwgUHJpbnotRXVnZW4tU3RyYcOfZSwgMjciCg3sCINBFWXEQEI,",
+                "Point": {
+                  "pos": "16.37936 48.191791"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+]

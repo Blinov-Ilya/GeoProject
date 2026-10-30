@@ -1,0 +1,26 @@
+{
+  "input_rows": 596543,
+  "swapped_coordinates_fixed": 6038,
+  "invalid_location_removed": 11961,
+  "invalid_rsrp_removed": 5914,
+  "missing_required_removed": 268,
+  "conflicting_ids": 162,
+  "conflicting_id_rows_removed": 324,
+  "repeated_ids_collapsed": 602,
+  "output_rows": 577474,
+  "raster_valid_pixels": 5189,
+  "raster_nodata_pixels": 4843,
+  "raster_max_support_distance_m": 249.8671093962394,
+  "raster_pixel_m": 100,
+  "operator_counts": {
+    "A": 289696,
+    "B": 142027,
+    "C": 145751
+  },
+  "date_min": "2024-10-13T14:59:59.637000",
+  "date_max": "2025-03-08T09:12:12.134000",
+  "h3_rows": 1226,
+  "h3_resolution": 9,
+  "radius_m": 250,
+  "object_rows": 15
+}
